@@ -20,7 +20,7 @@ __Difficulty Levels Indicator__
 [198-house-robber](leetcode/198_house_robber.cpp) (:white_circle:)  
 [200-number-of-islands](leetcode/200_number_of_islands.cpp) (:large_blue_circle:)  
 [206-reverse-linked-list](leetcode/206_reverse_linked_list.cpp) (:white_circle:)  
-[215-Kth-largest-element-in-array](leetcode/215_Kth_largest_element_in_array.cpp) (:larbe_blue_circle:)  
+[215-Kth-largest-element-in-array](leetcode/215_Kth_largest_element_in_array.cpp) (:large_blue_circle:)  
 [226-invert-binary-tree](leetcode/226_invert_binary_tree.cpp) (:white_circle:)  
 [239-sliding-window-maximum](leetcode/239_sliding_window_maximum.cpp) (:red_circle:)  
 [268-missing-number](leetcode/268_missing_number.cpp) (:white_circle:)  
