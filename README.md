@@ -15,5 +15,7 @@ __Difficulty Levels Indicator__
 [53-maximum-subarray](leetcode/53_maximum_subarray.cpp) (:white_circle:)  
 
 #### EPI
+Chapter 6. Strings  
+[6-12-substring-match](epi/6_12_substring_match.cpp) (:large_blue_circle:)  
 
 #### Algoexpert
