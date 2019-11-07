@@ -50,6 +50,31 @@ __Difficulty Levels Indicator__
 
 #### EPI
 Chapter 6. Strings  
-:large_blue_circle: [6-12-substring-match](epi/6_12_substring_match.cpp)  
+:large_blue_circle: [6_12_substring_match](epi/6_12_substring_match.cpp)  
 
 #### Algoexpert
+
+Arrays  
+:white_circle: [two_number_sum](algoexpert/two_number_sum.cpp)  
+
+Binary Search Trees  
+:white_circle: [find_closest_value_in_bst](algoexpert/find_closest_value_in_bst.cpp)  
+
+Graphs  
+:white_circle: [depth_first_search](algoexpert/depth_first_search.cpp)  
+:large_blue_circle: [single_cycle_check](algoexpert/single_cycle_check.cpp)  
+:large_blue_circle: [breath_first_search](algoexpert/breath_first_search.cpp)  
+:large_blue_circle: [river_sizes](algoexpert/river_sizes.cpp)  
+
+Linked Lists  
+:large_blue_circle: [remove_Kth_node_from_end](algoexpert/remove_Kth_node_from_end.cpp)  
+
+Recursion  
+:white_circle: [Nth_fibonacci](algoexpert/Nth_fibonacci.cpp)  
+
+Searching  
+:white_circle: [binary_search](algoexpert/binary_search.cpp)  
+
+Strings  
+:white_circle: [palindrome_check](algoexpert/palindrome_check.cpp)  
+:white_circle: [caesar_cipher_encryptor](algoexpert/caesar_cipher_encryptor.cpp)  
