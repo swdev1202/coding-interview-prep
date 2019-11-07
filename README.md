@@ -43,7 +43,7 @@ __Difficulty Levels Indicator__
 :white_circle: [897_increasing_order_search_tree](leetcode/897_increasing_order_search_tree.cpp)  
 :white_circle: [938_range_sum_of_bst](leetcode/938_range_sum_of_bst.cpp)  
 :white_circle: [965_univalued_binary_tree](leetcode/965_univalued_binary_tree.cpp)  
-:large_blue_circle  : [973_K_closest_points_to_origin](leetcode/973_K_closest_points_to_origin.cpp)  
+:large_blue_circle: [973_K_closest_points_to_origin](leetcode/973_K_closest_points_to_origin.cpp)  
 :white_circle: [1046_last_stone_weight](leetcode/1046_last_stone_weight.cpp)  
 :white_circle: [1189_maximum_number_of_balloons](leetcode/1189_maximum_number_of_balloons.cpp)  
 :white_circle: [1200_minimum_absolute_difference](leetcode/1200_minimum_absolute_difference.cpp)  
