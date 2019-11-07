@@ -8,7 +8,7 @@ __Difficulty Levels Indicator__
  :red_circle: Hard
  :black_circle: Very Hard
 
-#### LeetCode
+## LeetCode
 :white_circle: [1_two_sum](leetcode/1_two_sum.cpp)  
 :large_blue_circle: [2_add_two_numbers](leetcode/2_add_two_numbers.cpp)  
 :large_blue_circle: [3_longest_substr_without_repeating_chars](leetcode/3_longest_substr_without_repeating_chars.cpp)  
@@ -48,33 +48,33 @@ __Difficulty Levels Indicator__
 :white_circle: [1189_maximum_number_of_balloons](leetcode/1189_maximum_number_of_balloons.cpp)  
 :white_circle: [1200_minimum_absolute_difference](leetcode/1200_minimum_absolute_difference.cpp)  
 
-#### EPI
-Chapter 6. Strings  
+## EPI
+#### Chapter 6. Strings
 :large_blue_circle: [6_12_substring_match](epi/6_12_substring_match.cpp)  
 
-#### Algoexpert
+## Algoexpert
 
-Arrays  
+#### Arrays
 :white_circle: [two_number_sum](algoexpert/two_number_sum.cpp)  
 
-Binary Search Trees  
+#### Binary Search Trees
 :white_circle: [find_closest_value_in_bst](algoexpert/find_closest_value_in_bst.cpp)  
 
-Graphs  
+#### Graphs
 :white_circle: [depth_first_search](algoexpert/depth_first_search.cpp)  
 :large_blue_circle: [single_cycle_check](algoexpert/single_cycle_check.cpp)  
 :large_blue_circle: [breath_first_search](algoexpert/breath_first_search.cpp)  
 :large_blue_circle: [river_sizes](algoexpert/river_sizes.cpp)  
 
-Linked Lists  
+#### Linked Lists
 :large_blue_circle: [remove_Kth_node_from_end](algoexpert/remove_Kth_node_from_end.cpp)  
 
-Recursion  
+#### Recursion
 :white_circle: [Nth_fibonacci](algoexpert/Nth_fibonacci.cpp)  
 
-Searching  
+#### Searching
 :white_circle: [binary_search](algoexpert/binary_search.cpp)  
 
-Strings  
+#### Strings
 :white_circle: [palindrome_check](algoexpert/palindrome_check.cpp)  
 :white_circle: [caesar_cipher_encryptor](algoexpert/caesar_cipher_encryptor.cpp)  
