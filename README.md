@@ -34,7 +34,7 @@ __Difficulty Levels Indicator__
 [572_subtree_of_another_tree](leetcode/572_subtree_of_another_tree.cpp) (:white_circle:)  
 [590_N_ary_tree_postorder_traversal](leetcode/590_N_ary_tree_postorder_traversal.cpp) (:white_circle:)  
 [617_merge_two_binary_trees](leetcode/617_merge_two_binary_trees.cpp) (:white_circle:)  
-[657_robot_return_to_origin](leetcode/657_robot_return_to_origin.cpp) (:white_cirle:)  
+[657_robot_return_to_origin](leetcode/657_robot_return_to_origin.cpp) (:white_circle:)  
 [700_search_in_a_binary_tree](leetcode/700_search_in_a_binary_tree.cpp) (:white_circle:)  
 [701_insert_into_binary_search_tree](leetcode/701_insert_into_binary_search_tree.cpp) (:large_blue_circle:)  
 [709_to_lower_case](leetcode/709_to_lower_case.cpp) (:white_circle:)  
