@@ -12,8 +12,10 @@ __Difficulty Levels Indicator__
 :white_circle: [1_two_sum](leetcode/1_two_sum.cpp)  
 :large_blue_circle: [2_add_two_numbers](leetcode/2_add_two_numbers.cpp)  
 :large_blue_circle: [3_longest_substr_without_repeating_chars](leetcode/3_longest_substr_without_repeating_chars.cpp)  
+:large_blue_circle: [11_container_with_most_water](leetcode/11_container_with_most_water.cpp)  
 :white_circle: [53_maximum_subarray](leetcode/53_maximum_subarray.cpp)  
 :white_circle: [70_climbing_stairs](leetcode/70_climbing_stairs.cpp)  
+:white_circle: [121_best_time_to_buy_sell_stock](leetcode/121_best_time_to_buy_sell_stock.cpp)  
 :red_circle: [124_binary_tree_maximum_path_sum](leetcode/124_binary_tree_maximum_path_sum.cpp)  
 :large_blue_circle: [139_word_break](leetcode/139_word_break.cpp)  
 :white_circle: [175_combine_two_tables](leetcode/175_combine_two_tables.cpp)  
@@ -31,6 +33,7 @@ __Difficulty Levels Indicator__
 :white_circle: [350_intersection_of_two_arrays_2](leetcode/350_intersection_of_two_arrays_2.cpp)  
 :large_blue_circle: [513_find_bottom_left_tree_value](leetcode/513_find_bottom_left_tree_value.cpp)  
 :large_blue_circle: [547_friend_circles](leetcode/547_friend_circles.cpp)  
+:large_blue_circle: [560_subarray_sum_equals_k](leetcode/560_subarray_sum_equals_k.cpp)  
 :white_circle: [572_subtree_of_another_tree](leetcode/572_subtree_of_another_tree.cpp)  
 :white_circle: [590_N_ary_tree_postorder_traversal](leetcode/590_N_ary_tree_postorder_traversal.cpp)  
 :white_circle: [617_merge_two_binary_trees](leetcode/617_merge_two_binary_trees.cpp)  
@@ -55,10 +58,15 @@ __Difficulty Levels Indicator__
 ## Algoexpert
 
 #### Arrays
-:white_circle: [two_number_sum](algoexpert/two_number_sum.cpp)  
+:white_circle: [two_number_sum](algoexpert/two_number_sum.cpp) 
+:large_blue_circle: [three_number_sum](algoexpert/three_number_sum.cpp)  
+:red_circle: [zigzag_traverse](algoexpert/zigzag_traverse.cpp)  
 
 #### Binary Search Trees
 :white_circle: [find_closest_value_in_bst](algoexpert/find_closest_value_in_bst.cpp)  
+
+#### Binary Trees
+:large_blue_circle: [invert_binary_tree](algoexpert/invert_binary_tree.cpp)  
 
 #### Graphs
 :white_circle: [depth_first_search](algoexpert/depth_first_search.cpp)  
@@ -74,6 +82,10 @@ __Difficulty Levels Indicator__
 
 #### Searching
 :white_circle: [binary_search](algoexpert/binary_search.cpp)  
+
+#### Sorting
+:white_circle: [bubble_sort](algoexpert/bubble_sort.cpp)  
+:large_blue_circle: [quick_sort](algoexpert/quick_sort.cpp)  
 
 #### Strings
 :white_circle: [palindrome_check](algoexpert/palindrome_check.cpp)  
