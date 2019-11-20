@@ -61,6 +61,7 @@ __Difficulty Levels Indicator__
 :white_circle: [two_number_sum](algoexpert/two_number_sum.cpp) 
 :large_blue_circle: [three_number_sum](algoexpert/three_number_sum.cpp)  
 :red_circle: [zigzag_traverse](algoexpert/zigzag_traverse.cpp)  
+:large_blue_circle: [smallest_difference](algoexpert/smallest_difference.cpp)  
 
 #### Binary Search Trees
 :white_circle: [find_closest_value_in_bst](algoexpert/find_closest_value_in_bst.cpp)  
